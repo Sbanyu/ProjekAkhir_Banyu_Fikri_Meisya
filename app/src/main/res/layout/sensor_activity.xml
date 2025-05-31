@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="false">
+
+    <TextView
+        android:id="@+id/label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="32dp"
+        android:text="Sensor: Deteksi Jantung(simulasi)"
+        android:gravity="center"
+        android:textSize="18dp"
+        android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/tv_bpm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_centerInParent="true"
+            android:text="BPM(simulasi)"
+            android:textColor="@android:color/holo_red_dark"
+            android:textStyle="bold"/>
+</RelativeLayout>
