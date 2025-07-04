@@ -1,4 +1,4 @@
-![Screenshot_20250704_211809](https://github.com/user-attachments/assets/18669a15-9f3a-465c-96a7-0601d542ced9)### Aplikasi Medeline
+### Aplikasi Medeline
 
 ## 🩺 Apa itu Medeline?
 Medeline adalah aplikasi layanan kesehatan digital yang membantu pengguna mendapatkan informasi, membeli obat, dan berkonsultasi dengan dokter dengan mudah langsung dari perangkat mereka. Aplikasi ini dirancang untuk memberikan pengalaman praktis dan aman dalam mengelola kebutuhan medis harian.
@@ -26,7 +26,7 @@ Fitur ini mempermudah pengguna dalam menentukan langkah awal pengobatan secara c
 
 # 3. Halaman Get Started
 
-![image](https://github.com/user-attachments/assets/65eb4015-98ea-468b-b3cd-7a6833ab2f00)
+![Screenshot_20250704_205517](https://github.com/user-attachments/assets/9cc87273-f122-4325-baa2-8147c36f7569)
 
 # 4. Halaman Register & Login
 
@@ -44,24 +44,23 @@ Fitur ini mempermudah pengguna dalam menentukan langkah awal pengobatan secara c
 ![Screenshot_20250704_211809](https://github.com/user-attachments/assets/a3e308fd-106d-41f1-aa63-b25c270aae22)
 ![Screenshot_20250704_211819](https://github.com/user-attachments/assets/cf093ce8-b8b3-4080-aea8-93310e294cda)
 ![Screenshot_20250704_211906](https://github.com/user-attachments/assets/f92ab8bb-57b1-4ba0-b86d-77c7d4876544)
-![image](https://github.com/user-attachments/assets/2b9817d0-70d0-42ee-8742-7137db050633)
 ![Screenshot_20250704_211938](https://github.com/user-attachments/assets/53be83ab-18ff-4fd3-9033-73f604c257c3)
 
 # 7. Halaman Cart
 
-![image](https://github.com/user-attachments/assets/5fcf97f8-a373-4653-afc8-240f064b0e62)
-![image](https://github.com/user-attachments/assets/437e7543-70e0-4b16-811a-af45a6e35ac7)
+![Screenshot_20250705_003413](https://github.com/user-attachments/assets/15da21f6-4689-49b5-90b4-805cec1d55d5)
+![image](https://github.com/user-attachments/assets/b74abedc-fc30-4b04-9f08-b00daa0abf10)
 
 # 8. Halaman Checkout
 
-![image](https://github.com/user-attachments/assets/dca3d9cd-2d05-4dc0-b929-9dbfc1f268a6)
+![Screenshot_20250705_003413](https://github.com/user-attachments/assets/c6fbea73-ed9b-44aa-a343-0b8156c10f51)
 ![Screenshot_20250705_001604](https://github.com/user-attachments/assets/627fca82-65bc-4100-9939-bba35118c9ef)
 
 # 9. Halaman Alamat
 
-![image](https://github.com/user-attachments/assets/ed2ec4ed-4ec7-4db1-9845-b0e1981b8c35)
-![image](https://github.com/user-attachments/assets/449d51e4-64cb-472b-ad09-08cf7b01cadf)
-![image](https://github.com/user-attachments/assets/e1a3bac0-bce0-44ce-b832-2c3648307ecf)
+![Screenshot_20250705_001426](https://github.com/user-attachments/assets/c56d9fe5-fdcf-4708-abf2-c9280e795c41)
+![Screenshot_20250705_001438](https://github.com/user-attachments/assets/566938b7-1f80-4903-9a71-f3392927053b)
+![Screenshot_20250705_001512](https://github.com/user-attachments/assets/739ef8c8-0dc5-4350-8953-904cb60dbad6)
 ![Screenshot_20250705_001540](https://github.com/user-attachments/assets/f969ad9d-59b3-4644-a222-7c354d6f221e)
 
 # 10. Sukses
