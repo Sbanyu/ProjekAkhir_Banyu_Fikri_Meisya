@@ -49,7 +49,7 @@ Fitur ini mempermudah pengguna dalam menentukan langkah awal pengobatan secara c
 # 7. Halaman Cart
 
 ![Screenshot_20250705_003413](https://github.com/user-attachments/assets/15da21f6-4689-49b5-90b4-805cec1d55d5)
-![image](https://github.com/user-attachments/assets/b74abedc-fc30-4b04-9f08-b00daa0abf10)
+![Screenshot_20250705_003403](https://github.com/user-attachments/assets/01817dd8-df89-4ee1-8bac-7e8831e21012)
 
 # 8. Halaman Checkout
 
